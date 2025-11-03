@@ -11,8 +11,9 @@
     <ul dir="auto">
         <li>💼 I'm a dedicated **Full-Stack Web Developer**</li>
         <li>💡 I specialize in building **clean, responsive, and efficient** user interfaces (Frontend) and scalable backends.</li>
-        <li>🌱 I’m currently strengthening my skills in **Frontend Development**.</li>
+        <li>🌱 I’m currently strengthening my skills in **Web Development**.</li>
         <li>📫 How to reach me: <strong><a href="mailto:yousefaosman086@gmail.com"><code>yousefaosman086@gmail.com</code></a></strong></li>
+        
     </ul>
 </p>
 <br>
