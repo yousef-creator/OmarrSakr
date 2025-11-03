@@ -1,23 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yousef Othman</h1>
 <h3 align="center">Full-Stack Web Developer | Building modern, efficient, and scalable web solutions</h3>
 
-<div align="center">
-    <a href="https://github.com/yousef-creator/yousef-creator/stargazers">
-        <img src="https://img.shields.io/github/stars/yousef-creator/yousef-creator" alt="Stars Badge"/></a>
-    <a href="https://github.com/yousef-creator/yousef-creator/network/members">
-        <img src="https://img.shields.io/github/forks/yousef-creator/yousef-creator" alt="Forks Badge"/></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" 
-        href="https://komarev.com/ghpvc/?username=yousef-creator&label=Profile%20views&color=0e75b6&style=flat">
-        <img src="https://komarev.com/ghpvc/?username=yousef-creator&label=Profile%20views&color=0e75b6&style=flat"
-            alt="Profile Views"
-            style="max-width: 100%; margin-right: 10px;"></a>
-    <a target="_blank" rel="noopener noreferrer nofollow" 
-        href="https://img.shields.io/github/followers/yousef-creator?label=Followers">
-        <img src="https://img.shields.io/github/followers/yousef-creator?label=Followers"
-            alt="GitHub Followers"
-            style="max-width: 100%;"></a>
-</div>
-
 ---
 
 <p dir="auto">
@@ -29,7 +12,6 @@
         <li>💼 I'm a dedicated **Full-Stack Web Developer**</li>
         <li>💡 I specialize in building **clean, responsive, and efficient** user interfaces (Frontend) and scalable backends.</li>
         <li>🌱 I’m currently strengthening my skills in **Frontend Development**.</li>
-        <!-- <li>🤝 I’m actively seeking **new job opportunities** as a Web Developer.</li> -->
         <li>📫 How to reach me: <strong><a href="mailto:yousefaosman086@gmail.com"><code>yousefaosman086@gmail.com</code></a></strong></li>
     </ul>
 </p>
@@ -83,7 +65,7 @@
 ## 📩 Connect with me
 
 <p align="center" dir="auto">
-    <a href="www.linkedin.com/in/yousefothman" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.linkedin.com/in/yousefothman" title="LinkedIn" target="_blank" rel="noopener noreferrer">
         <img src="https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
             alt="LinkedIn" style="max-width: 100%;"></a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yousefaosman086@gmail.com" title="Gmail" target="_blank">
@@ -93,7 +75,4 @@
         <img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff" alt="WhatsApp Contact" style="max-width: 100%;"></a>
 </p>
 
----
-* **`https://x.com/YousefOthman-X-Link`** for your Twitter/X profile URL.
 
-Let me know if you need help generating any of the remaining content!
