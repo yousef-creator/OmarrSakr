@@ -26,12 +26,11 @@
     </animated-image>
     
     <ul dir="auto">
-        <li>💼 I'm a dedicated **Full-Stack Web Developer** with 5+ years of experience.</li>
+        <li>💼 I'm a dedicated **Full-Stack Web Developer**</li>
         <li>💡 I specialize in building **clean, responsive, and efficient** user interfaces (Frontend) and scalable backends.</li>
-        <li>🌱 I’m currently strengthening my skills in **[Specify a current learning area, e.g., Node.js / TypeScript]**.</li>
-        <li>🤝 I’m actively seeking **new job opportunities** as a Web Developer.</li>
+        <li>🌱 I’m currently strengthening my skills in **Frontend Development**.</li>
+        <!-- <li>🤝 I’m actively seeking **new job opportunities** as a Web Developer.</li> -->
         <li>📫 How to reach me: <strong><a href="mailto:yousefaosman086@gmail.com"><code>yousefaosman086@gmail.com</code></a></strong></li>
-        <li>🔗 Check out my professional experience: <a href="[LINK TO YOUR RESUME/PORTFOLIO]"><code><strong>Resume / Portfolio</strong></code></a> (***UPDATE THIS LINK***)</li>
     </ul>
 </p>
 <br>
@@ -84,16 +83,14 @@
 ## 📩 Connect with me
 
 <p align="center" dir="auto">
-    <a href="https://www.linkedin.com/in/YousefOthman-Link" title="LinkedIn" target="_blank" rel="noopener noreferrer">
+    <a href="www.linkedin.com/in/yousefothman" title="LinkedIn" target="_blank" rel="noopener noreferrer">
         <img src="https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
             alt="LinkedIn" style="max-width: 100%;"></a>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yousefaosman086@gmail.com" title="Gmail" target="_blank">
         <img src="https://camo.githubusercontent.com/d450447694b79318c4a02da2e89e7cd6a86d883207c6fca0b51021a64af3f79e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"
             alt="Gmail" style="max-width: 100%; height: auto;"></a>
-    <a href="https://api.whatsapp.com/send?phone=[YOUR_WHATSAPP_NUMBER]" target="_blank" rel="noopener noreferrer">
+    <a href="https://api.whatsapp.com/send?phone=01550825004" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/whatsapp-9EF19D.svg?style=for-the-badge&logo=whatsapp&logoColor=#ffff" alt="WhatsApp Contact" style="max-width: 100%;"></a>
-    <a href="https://x.com/YousefOthman-X-Link" target="_blank" title="Twitter (X)" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Twitter%20(X)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)" style="max-width: 100%; height: auto;"></a>
 </p>
 
 ---
