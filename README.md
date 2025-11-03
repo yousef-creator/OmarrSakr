@@ -9,11 +9,12 @@
     </animated-image>
     
     <ul dir="auto">
-        <li>💼 I'm a dedicated **Full-Stack Web Developer**</li>
+        <li>💼 I'm a dedicated **Full-Stack Web Developer** with 5+ years of experience.</li>
         <li>💡 I specialize in building **clean, responsive, and efficient** user interfaces (Frontend) and scalable backends.</li>
-        <li>🌱 I’m currently strengthening my skills in **Web Development**.</li>
+        <li>🌱 I’m currently strengthening my skills in **[Specify a current learning area, e.g., Node.js / TypeScript]**.</li>
+        <li>🤝 I’m actively seeking **new job opportunities** as a Web Developer.</li>
         <li>📫 How to reach me: <strong><a href="mailto:yousefaosman086@gmail.com"><code>yousefaosman086@gmail.com</code></a></strong></li>
-        
+        <li>🔗 Check out my professional experience: <a href="[LINK TO YOUR RESUME/PORTFOLIO]"><code><strong>Resume / Portfolio</strong></code></a> (***UPDATE THIS LINK***)</li>
     </ul>
 </p>
 <br>
