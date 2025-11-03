@@ -3,21 +3,20 @@
 
 ---
 
-<p dir="auto">
-    <animated-image data-catalyst="" style="float: right;">
-        <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" style="max-width: 100%; display: inline-block;">
-    </animated-image>
-    
-    <ul dir="auto">
-        <li>💼 I'm a dedicated **Full-Stack Web Developer** with 5+ years of experience.</li>
-        <li>💡 I specialize in building **clean, responsive, and efficient** user interfaces (Frontend) and scalable backends.</li>
-        <li>🌱 I’m currently strengthening my skills in **[Specify a current learning area, e.g., Node.js / TypeScript]**.</li>
-        <li>🤝 I’m actively seeking **new job opportunities** as a Web Developer.</li>
-        <li>📫 How to reach me: <strong><a href="mailto:yousefaosman086@gmail.com"><code>yousefaosman086@gmail.com</code></a></strong></li>
-        <li>🔗 Check out my professional experience: <a href="[LINK TO YOUR RESUME/PORTFOLIO]"><code><strong>Resume / Portfolio</strong></code></a> (***UPDATE THIS LINK***)</li>
-    </ul>
-</p>
-<br>
+<div align="center">
+    <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Coding GIF" width="300px">
+</div>
+
+### Professional Snapshot
+
+* **Role:** Dedicated **Full-Stack Web Developer** with.
+* **Focus:** I specialize in building **clean, responsive, and efficient** user interfaces (Frontend) and architecting scalable backends.
+* **Learning:** Currently strengthening my expertise in **Frontend Development**.
+
+### Looking to Connect
+
+
+* **Email:** The fastest way to reach me is at: **<a href="mailto:yousefaosman086@gmail.com"><code>yousefaosman086@gmail.com</code></a>**
 
 ## 🛠 Languages and Tools
 
